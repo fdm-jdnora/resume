@@ -1,127 +1,160 @@
-sics": {
+{
+    "basics": {
         "name": "Jan Dennis Nora",
         "label": "Mobile Developer",
         "picture": "",
         "email": "dennis.nora@flightdigitalmedia.com",
         "phone": "+639178141757"
     },
-    "education": [{
-        "institution": "University of the Philippines - Los Baños",
-        "course": "Computer Science",
-        "studyType": "Bachelor",
-        "startDate": "2005",
-        "endDate": "2010"
-    }],
+    "education": [
+        {
+            "institution": "University of the Philippines - Los Baños",
+            "course": "Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2005",
+            "endDate": "2010"
+        }
+    ],
     "skills": [
         {
             "category": "Programming Languages",
-            "technologies":[{
-                "name": "Java",
-                "number_of_years": 7
-            }, {
-                "name": "Android",
-                "number_of_years": 5
-            }, {
-                "name": "Swift",
-                "number_of_years": 3
-            }, {
-                "name": "JQuery",
-                "number_of_years": 1
-            }, {
-                "name": "Javascript",
-                "number_of_years": 5
-            }, {
-                "name": "BackBoneJS",
-                "number_of_years": 3
-            }]
-        },{
+            "technologies": [
+                {
+                    "name": "Java",
+                    "number_of_years": 7
+                },
+                {
+                    "name": "Android",
+                    "number_of_years": 5
+                },
+                {
+                    "name": "Swift",
+                    "number_of_years": 3
+                },
+                {
+                    "name": "JQuery",
+                    "number_of_years": 1
+                },
+                {
+                    "name": "Javascript",
+                    "number_of_years": 5
+                },
+                {
+                    "name": "BackBoneJS",
+                    "number_of_years": 3
+                }
+            ]
+        },
+        {
             "category": "Web Technologies",
-            "technologies":[{
-                "name": "Java",
-                "number_of_years": 4
-            }]
-        },{
+            "technologies": [
+                {
+                    "name": "Java",
+                    "number_of_years": 4
+                }
+            ]
+        },
+        {
             "category": "Databases",
-            "technologies":[{
-                "name": "MySql",
-                "number_of_years": 3
-            }, {
-                "name": "PostgreSQL",
-                "number_of_years": 3
-            }, {
-                "name": "Oracle",
-                "number_of_years": 3
-            }]
-        },{
+            "technologies": [
+                {
+                    "name": "MySql",
+                    "number_of_years": 3
+                },
+                {
+                    "name": "PostgreSQL",
+                    "number_of_years": 3
+                },
+                {
+                    "name": "Oracle",
+                    "number_of_years": 3
+                }
+            ]
+        },
+        {
             "category": "Version Control",
-            "technologies":[{
-                "name": "Git",
-                "number_of_years": 3
-            }]
-        },{
+            "technologies": [
+                {
+                    "name": "Git",
+                    "number_of_years": 3
+                }
+            ]
+        },
+        {
             "category": "Integrated Development Environment",
-            "technologies":[{
-                "name": "Android Studio",
-                "number_of_years": 3
-            }, {
-                "name": "XCode",
-                "number_of_years": 3
-            }, {
-                "name": "Eclipse",
-                "number_of_years": 3
-            }, {
-                "name": "Netbeans",
-                "number_of_years": 4
-            }]
+            "technologies": [
+                {
+                    "name": "Android Studio",
+                    "number_of_years": 3
+                },
+                {
+                    "name": "XCode",
+                    "number_of_years": 3
+                },
+                {
+                    "name": "Eclipse",
+                    "number_of_years": 3
+                },
+                {
+                    "name": "Netbeans",
+                    "number_of_years": 4
+                }
+            ]
         }
     ],
-    "work": [{
-        "company": "Flight Digital Media",
-        "position": "Mobile Developer",
-        "startDate": "December 2015",
-        "endDate": "Present",
-        "summary": "Provide Mobile Solutions to PowerCore.",
-        "highlights": [],
-        "projects":[
-            {
-                "name":"PowerCore",
-                "description":"The PowerCore Collector app lets users celebrate original art with free Messaging Stickers from Artists and Creators and Toy Convention related content! ",
-                "role":"Lead Developer for iOS and Android",
-                "startDate":"2015",
-                "endDate":"Present",
-                "technologies":"Android, iOS"
-            },{
-                "name":"Zukii Consumer",
-                "description":"Zukii, the very first m-commerce app that provides you a whole new mobile shopping experience.",
-                "role":"Android Developer",
-                "startDate":"2016",
-                "endDate":"Present",
-                "technologies":"Android"
-            }
-        ]
-    },{
-        "company": "Indra Philippines, Inc.",
-        "position": "Consultant",
-        "startDate": "June 2010",
-        "endDate": "Dec 2015",
-        "summary": "Provide Operations and Maintenance to the Meralco Electric Distribution Management System (EDMS). Provide mobile solutions to existing business processes and further improve operational efficiency.",
-        "highlights": [],
-        "projects":[{
-            "name":"OTMS",
-            "description":"Operations and Troubles Management Systems supports the complaints and outages system of Meralco. It manages all customer related complaints and sees through it from creation up to completion. It also provides high level performance metrics to stakeholders",
-            "role":"Lead Developer",
-            "startDate":"2010",
-            "endDate":"2012",
-            "technologies":"Natural, Oracle SQL, Java (Web)"
-        },{
-            "name":"IMCS",
-            "description":"Integrated Mobile Computing System is the mobile innovation provider of EDMS. It aims to innovate and improve efficiency of the resolution of outages by introducing mobile apps that can provide real time data to Meralco's legacy and upcoming systems.",
-            "role":"Lead Developer/Team Lead/Cluster Head",
-            "startDate":"2012",
-            "endDate":"2015",
-            "technologies":"Android, Java (Web), Oracle SQL, XML based Api"
-        }]
-    }
+    "work": [
+        {
+            "company": "Flight Digital Media",
+            "position": "Mobile Developer",
+            "startDate": "December 2015",
+            "endDate": "Present",
+            "summary": "Provide Mobile Solutions to PowerCore.",
+            "highlights": [],
+            "projects": [
+                {
+                    "name": "PowerCore",
+                    "description": "The PowerCore Collector app lets users celebrate original art with free Messaging Stickers from Artists and Creators and Toy Convention related content! ",
+                    "role": "Lead Developer for iOS and Android",
+                    "startDate": "2015",
+                    "endDate": "Present",
+                    "technologies": "Android, iOS"
+                },
+                {
+                    "name": "Zukii Consumer",
+                    "description": "Zukii, the very first m-commerce app that provides you a whole new mobile shopping experience.",
+                    "role": "Android Developer",
+                    "startDate": "2016",
+                    "endDate": "Present",
+                    "technologies": "Android"
+                }
+            ]
+        },
+        {
+            "company": "Indra Philippines, Inc.",
+            "position": "Consultant",
+            "startDate": "June 2010",
+            "endDate": "Dec 2015",
+            "summary": "Provide Operations and Maintenance to the Meralco Electric Distribution Management System (EDMS). Provide mobile solutions to existing business processes and further improve operational efficiency.",
+            "highlights": [],
+            "projects": [
+                {
+                    "name": "OTMS",
+                    "description": "Operations and Troubles Management Systems supports the complaints and outages system of Meralco. It manages all customer related complaints and sees through it from creation up to completion. It also provides high level performance metrics to stakeholders",
+                    "role": "Lead Developer",
+                    "startDate": "2010",
+                    "endDate": "2012",
+                    "technologies": "Natural, Oracle SQL, Java (Web)"
+                },
+                {
+                    "name": "IMCS",
+                    "description": "Integrated Mobile Computing System is the mobile innovation provider of EDMS. It aims to innovate and improve efficiency of the resolution of outages by introducing mobile apps that can provide real time data to Meralco's legacy and upcoming systems.",
+                    "role": "Lead Developer/Team Lead/Cluster Head",
+                    "startDate": "2012",
+                    "endDate": "2015",
+                    "technologies": "Android, Java (Web), Oracle SQL, XML based Api"
+                }
+            ]
+        }
     ],
     "certification": []
 }
