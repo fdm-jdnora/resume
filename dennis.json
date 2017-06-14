@@ -17,7 +17,7 @@
     ],
     "skills": [
         {
-            "category": "Programming Languages",
+            "category": "Core Competencies",
             "technologies": [
                 {
                     "name": "Java",
@@ -32,72 +32,8 @@
                     "number_of_years": 3
                 },
                 {
-                    "name": "JQuery",
-                    "number_of_years": 1
-                },
-                {
-                    "name": "Javascript",
+                    "name": "Android SDK",
                     "number_of_years": 5
-                },
-                {
-                    "name": "BackBoneJS",
-                    "number_of_years": 3
-                }
-            ]
-        },
-        {
-            "category": "Web Technologies",
-            "technologies": [
-                {
-                    "name": "Java",
-                    "number_of_years": 4
-                }
-            ]
-        },
-        {
-            "category": "Databases",
-            "technologies": [
-                {
-                    "name": "MySql",
-                    "number_of_years": 3
-                },
-                {
-                    "name": "PostgreSQL",
-                    "number_of_years": 3
-                },
-                {
-                    "name": "Oracle",
-                    "number_of_years": 3
-                }
-            ]
-        },
-        {
-            "category": "Version Control",
-            "technologies": [
-                {
-                    "name": "Git",
-                    "number_of_years": 3
-                }
-            ]
-        },
-        {
-            "category": "Integrated Development Environment",
-            "technologies": [
-                {
-                    "name": "Android Studio",
-                    "number_of_years": 3
-                },
-                {
-                    "name": "XCode",
-                    "number_of_years": 3
-                },
-                {
-                    "name": "Eclipse",
-                    "number_of_years": 3
-                },
-                {
-                    "name": "Netbeans",
-                    "number_of_years": 4
                 }
             ]
         }
@@ -117,6 +53,7 @@
                     "role": "Lead Developer for iOS and Android",
                     "startDate": "2015",
                     "endDate": "Present",
+                    "months": "(18 months)",
                     "technologies": "Android, iOS"
                 },
                 {
@@ -125,6 +62,7 @@
                     "role": "Android Developer",
                     "startDate": "2016",
                     "endDate": "Present",
+                    "months": "(7 months)",
                     "technologies": "Android"
                 }
             ]
@@ -143,6 +81,7 @@
                     "role": "Lead Developer",
                     "startDate": "2010",
                     "endDate": "2012",
+                    "months": "(24 months)",
                     "technologies": "Natural, Oracle SQL, Java (Web)"
                 },
                 {
@@ -151,6 +90,7 @@
                     "role": "Lead Developer/Team Lead/Cluster Head",
                     "startDate": "2012",
                     "endDate": "2015",
+                    "months": "(36 months)",
                     "technologies": "Android, Java (Web), Oracle SQL, XML based Api"
                 }
             ]
