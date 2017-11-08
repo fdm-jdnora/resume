@@ -57,6 +57,15 @@
                     "technologies": "Android, iOS"
                 },
                 {
+                    "name": "Lucky",
+                    "description": "The Lucky app is a social media app aimed to enhance your luck and compatibility among your friends",
+                    "role": "Lead Developer for iOS and Android",
+                    "startDate": "2017",
+                    "endDate": "Present",
+                    "months": "(6 months)",
+                    "technologies": "Android, iOS"
+                },
+                {
                     "name": "Zukii Consumer",
                     "description": "Zukii, the very first m-commerce app that provides you a whole new mobile shopping experience.",
                     "role": "Android Developer",
